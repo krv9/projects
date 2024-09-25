@@ -1,0 +1,10 @@
+eclipse.m2.debugOutput=true
+eclipse.m2.downloadJavadoc=true
+eclipse.m2.globalChecksumPolicy=ignore
+eclipse.m2.globalUpdatePolicy=always
+eclipse.m2.hideFoldersOfNestedProjects=true
+eclipse.m2.offline=true
+eclipse.m2.queryCentralToIdentifyArtifact=true
+eclipse.m2.updateIndexes=true
+eclipse.m2.updateProjects=true
+eclipse.preferences.version=1

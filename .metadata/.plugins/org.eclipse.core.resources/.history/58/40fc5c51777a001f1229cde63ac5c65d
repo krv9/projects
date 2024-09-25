@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body{
+	background:black;
+}
+.maincontainer{
+	width:2rem;
+	height:auto;
+	background:white;
+}
+.font{
+	color:white;
+}
